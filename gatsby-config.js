@@ -4,8 +4,8 @@ module.exports = {
       resolve: "smooth-doc",
       options: {
         name: "Smooth DOC Starter",
-        description: "Use your own description...",
-        siteUrl: "https://example.com",
+        description: "Rem Documentation Using Smooth Doc",
+        siteUrl: "https://remdoc.gatsbyjs.io/",
       },
     },
   ],
