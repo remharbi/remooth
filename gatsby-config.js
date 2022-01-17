@@ -5,7 +5,7 @@ module.exports = {
     {
       resolve: "smooth-doc",
       options: {
-        name: "Rem || Smooth Doc",
+        name: "Rem Doc",
         description: "Rem Documentation Using Smooth Doc",
         siteUrl: "https://remdoc.gatsbyjs.io/",
         baseDirectory: path.resolve(__dirname, '../'),
